@@ -1,2 +1,2 @@
-# kotlin_api_rest
+# kotlin-api-rest
 Repositório para experimentos envolvendo o desenvolvimento em kotlin
